@@ -1,0 +1,62 @@
+[
+  {
+    "global_item_id": 1,
+    "area_item_id": 1,
+    "address": "c8741b",
+    "data": "87440400598601",
+    "bag_item": "b2",
+    "chest_item": "5900",
+    "item_type": "collectable",
+    "retrieval_type": "chest",
+    "check_type": "pickup",
+    "og_name": "Strength Seed",
+    "area": "Aliahan",
+    "location": "Hero’s House",
+    "reqs": "2F"
+  },
+  {
+    "global_item_id": 2,
+    "area_item_id": 2,
+    "address": "c87cc5",
+    "data": "742040005008501",
+    "bag_item": "NaN",
+    "chest_item": "0005",
+    "item_type": "gold",
+    "retrieval_type": "chest",
+    "check_type": "pickup",
+    "og_name": "5 G",
+    "area": "Aliahan",
+    "location": "Hero’s House 2F",
+    "reqs": "Nope"
+  },
+  {
+    "global_item_id": 6,
+    "area_item_id": 6,
+    "address": "c87445",
+    "data": "45471c805c8801",
+    "bag_item": "b9",
+    "chest_item": "5c80",
+    "item_type": "barrel/search",
+    "retrieval_type": "pickup",
+    "check_type": "Antidote Herb",
+    "og_name": "Aliahan",
+    "area": "Castle 1F - Right Barrel",
+    "location": "Nope",
+    "reqs": ""
+  },
+  {
+    "global_item_id": 7,
+    "area_item_id": 7,
+    "address": "c8744d",
+    "data": "05471c00688d01",
+    "bag_item": "d0",
+    "chest_item": "6800",
+    "item_type": "collectable",
+    "retrieval_type": "barrel/search",
+    "check_type": "pickup",
+    "og_name": "Small Medal",
+    "area": "Aliahan",
+    "location": "Castle 1F - Left Barrel",
+    "reqs": "Nope"
+  }
+]
